@@ -346,3 +346,9 @@ notebook==7.0.0                 # Jupyter notebook interface
 - **Competition Organizers**: For providing the challenging dataset and problem statement
 
 ---
+
+## 🤝 Contributors
+This project was developed as part of the Amazon ML Challenge 2025. We would like to thank the following collaborators for their valuable contributions:
+
+* **Gautam Babel Jain** ([@PixelNavigation](https://github.com/PixelNavigation))
+* **Gourav Mital** ([@GouravMital](https://github.com/GouravMital))
